@@ -1,3 +1,7 @@
 1,初始化仓库
 2,建立新分支
 3,PHP标准库spl
+4,strpos 用 === 判断是否存在
+5,strstr()字符串出线位子并且返回之后的字符串
+6,strrev()反转字符串
+7,ucfirst() ucwords() strtolower() strtoupper() pow() getdata() localtime() serialize()

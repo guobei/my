@@ -1,0 +1,10 @@
+redis学习
+五种数据类型
+1 list
+set name value ;get name;setnx name value(not exist){return 0};
+mset(一次设置多个);
+2 set
+3 sorted sets
+4 string
+5 hashes
+hset name1 field value;hmset;
