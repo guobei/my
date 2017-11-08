@@ -1,3 +1,4 @@
 11.8 linux 学习
 查看网络ifconfig
-查看网络配置 cd 
+查看网络配置 cd /etc/sysconfig/network-scripts vim ifcfg-ens33
+ifup+网络名字 启动网络 service network restart ，service network start，/stop/
