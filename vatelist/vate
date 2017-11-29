@@ -1,0 +1,6 @@
+filter_var()  filter_input()
+php://stdin 只读php流
+php://stdout 写入缓冲区
+php://memory 从内存中取出数据,或者写入内存
+php://temp == php://memory
+链路层（接口层）-> IP层（网络层）->传输层(tcp,ucp)->应用层(http,ftp)

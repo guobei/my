@@ -2,3 +2,9 @@
 查看网络ifconfig
 查看网络配置 cd /etc/sysconfig/network-scripts vim ifcfg-ens33
 ifup+网络名字 启动网络 service network restart ，service network start，/stop/
+文件权限 r 读 w 写 x执行
+echo $shell 查看当前是哪种shell
+echo -e识别转义符
+#!/bin/bash 表示要写shell脚本
+运行脚本两个方法 1 chmod 755 xxxx ./xxx 2 base xxx
+可执行程序在/usr/bin/，库文件在/usr/lib/，配置文件在/usr/local/
