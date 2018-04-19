@@ -8,3 +8,4 @@ echo -e识别转义符
 #!/bin/bash 表示要写shell脚本
 运行脚本两个方法 1 chmod 755 xxxx ./xxx 2 base xxx
 可执行程序在/usr/bin/，库文件在/usr/lib/，配置文件在/usr/local/
+你说呢
