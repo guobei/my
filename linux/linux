@@ -9,12 +9,12 @@ echo -e识别转义符
 运行脚本两个方法 1 chmod 755 xxxx ./xxx 2 base xxx
 可执行程序在/usr/bin/，库文件在/usr/lib/，配置文件在/usr/local/
 你说呢
-<<<<<<< HEAD
+说说说
 阿斯顿发斯蒂芬
 update
 update2
 sdfsdfadsfsdf:wq
 
-=======
+
 阿斯顿发斯蒂芬水电费
->>>>>>> 70c07b1aa11dc3346556bd3c94dbf819c3d84ff9
+
